@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.blue{
+    background-color: black;
+    height: 50px;
+color: blue;
+}
+.red{
+    background-color: blue;
+    color: 0°, 82%, 56%;
+}
